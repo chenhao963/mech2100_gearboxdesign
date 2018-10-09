@@ -9,4 +9,6 @@ distance plot: plots gears 3, 4 and the idler in the configuration that satisfie
 
 shaft forces: calculates the gear forces acting on each shaft and the reaction forces from the bearings. Also calculates the shear and bending foraces at the critical points and plots the bending moment diagrams 
 
+bearings: computes the required dynamic loading for the bearings on each shaft support
+
 shaft stresses: calculates the bending stresses and torsional stresses acting on the shaft, and finds the factor of safety considering the stress concentration factors
